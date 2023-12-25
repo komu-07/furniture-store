@@ -1,6 +1,7 @@
 ************************THE FURNITURE STORE*****************************
 built this awesome fully responsive e-commerce website using react frameworks.
 Added styled components using daisyui(a tailwind css library) like carousel in the home page
+Implemented pagination in the products & orders page  
 Used react-router-dom library to add routes like home, about, cart, orders, checkout..etc.
 By clicking on products one can easily navigate to the single product page for details.
 Added login and logout functionality , where one can create account or login as guest.
