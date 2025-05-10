@@ -10,3 +10,4 @@ Added login and logout functionality , where one can create account or login as 
 Managed states using redux-toolkit library(created cartSlice to manage cart state, and userSlice to manage users)
 One can switch between themes (light or dark) as per choice.
 Used React Query library for caching data providing seamless user experiance
+Do checkout my website at - https://furnitureestoree.netlify.app/
